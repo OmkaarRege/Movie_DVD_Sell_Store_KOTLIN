@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.onlinemoviestore">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OnlineMovieStore"
+        >
+
+        <activity android:name="com.example.onlinemoviestore.Horror1" />
+        <activity android:name="com.example.onlinemoviestore.Horror2" />
+        <activity android:name="com.example.onlinemoviestore.Horror3" />
+        <activity android:name="com.example.onlinemoviestore.Horror4" />
+        <activity android:name="com.example.onlinemoviestore.Horror5" />
+        <activity android:name="com.example.onlinemoviestore.Horror6" />
+        <activity android:name="com.example.onlinemoviestore.Horror7" />
+        <activity android:name="com.example.onlinemoviestore.Horror8" />
+        <activity android:name="com.example.onlinemoviestore.Comedy1" />
+        <activity android:name="com.example.onlinemoviestore.Comedy2" />
+        <activity android:name="com.example.onlinemoviestore.Comedy3" />
+        <activity android:name="com.example.onlinemoviestore.Comedy4" />
+        <activity android:name="com.example.onlinemoviestore.Comedy5" />
+        <activity android:name="com.example.onlinemoviestore.Comedy6" />
+        <activity android:name="com.example.onlinemoviestore.Comedy7" />
+        <activity android:name="com.example.onlinemoviestore.Comedy8" />
+        <activity android:name="com.example.onlinemoviestore.Romance1" />
+        <activity android:name="com.example.onlinemoviestore.Romance2" />
+        <activity android:name="com.example.onlinemoviestore.Romance3" />
+        <activity android:name="com.example.onlinemoviestore.Romance4" />
+        <activity android:name="com.example.onlinemoviestore.Romance5" />
+        <activity android:name="com.example.onlinemoviestore.Romance6" />
+        <activity android:name="com.example.onlinemoviestore.Romance7" />
+        <activity android:name="com.example.onlinemoviestore.Romance8" />
+        <activity android:name="com.example.onlinemoviestore.Comedy_Movies" />
+        <activity android:name="com.example.onlinemoviestore.Horror_Movies" />
+        <activity android:name="com.example.onlinemoviestore.Romance_Movies" />
+        <activity android:name="com.example.onlinemoviestore.ProductGrid" />
+        <activity android:name="com.example.onlinemoviestore.Payment" />
+        <activity android:name="com.example.onlinemoviestore.OrderedSummary" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

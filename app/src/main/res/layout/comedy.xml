@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/shop2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="93dp"
+        android:layout_marginBottom="85dp"
+        android:text="Shop" />
+
+    <Button
+        android:id="@+id/cart2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="93dp"
+        android:layout_marginBottom="85dp"
+        android:text="Cart" />
+
+    <Button
+        android:id="@+id/comedy1"
+        android:layout_width="145dp"
+        android:layout_height="72dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="45dp"
+        android:text="Paddington" />
+
+    <Button
+        android:id="@+id/comedy2"
+        android:layout_width="148dp"
+        android:layout_height="75dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="46dp"
+        android:layout_marginEnd="44dp"
+        android:text="Guardians Of The Galaxy" />
+
+    <Button
+        android:id="@+id/comedy3"
+        android:layout_width="145dp"
+        android:layout_height="66dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="156dp"
+        android:text="A Serious Man" />
+
+    <Button
+        android:id="@+id/comedy4"
+        android:layout_width="148dp"
+        android:layout_height="66dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="154dp"
+        android:layout_marginEnd="41dp"
+        android:text="Night at the Museum" />
+
+    <Button
+        android:id="@+id/comedy5"
+        android:layout_width="149dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="255dp"
+        android:text="Back to The Future" />
+
+    <Button
+        android:id="@+id/comedy6"
+        android:layout_width="131dp"
+        android:layout_height="63dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="259dp"
+        android:layout_marginEnd="47dp"
+        android:text="The Big Short" />
+
+    <Button
+        android:id="@+id/comedy7"
+        android:layout_width="148dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginBottom="173dp"
+        android:text="Megamind" />
+
+    <Button
+        android:id="@+id/comedy8"
+        android:layout_width="137dp"
+        android:layout_height="65dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="182dp"
+        android:text="His Girl Friday" />
+
+    <TextView
+        android:id="@+id/c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="148dp"
+        android:layout_marginTop="3dp"
+        android:text="Comedy"
+        android:textSize="30sp" />
+
+</RelativeLayout>

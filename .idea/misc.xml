@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/come1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/come2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/come3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/come4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/come5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/come6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/come7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/come8.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/comedy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/horr1.xml" value="0.264" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/horr2.xml" value="0.264" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/horr3.xml" value="0.264" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/horr4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/horr5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/horr6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/horr7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/horr8.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/horror.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/order_summary.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/payment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/product_grid.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/roma1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/roma2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/roma3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/roma4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/roma5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/roma6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/roma7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/roma8.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/romace.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Uma/AndroidStudioProjects/OnlineMovieStore/app/src/main/res/layout/romance.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
